@@ -1,5 +1,6 @@
 # ExtractPinFunctionFromLibertySource
 Extract Pin and Function information from Synopsys Liberty (.lib)
+This script is mainly used for generating liberty for Yosys compiling.
 
 ## Need Module
 
