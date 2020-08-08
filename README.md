@@ -4,7 +4,7 @@ This script is mainly used for generating liberty for Yosys compiling.
 
 ## Need Module
 
-* Liberty-parser
+* [Liberty-parser](https://pypi.org/project/liberty-parser/)
 
 ```
 pip install liberty-parser
